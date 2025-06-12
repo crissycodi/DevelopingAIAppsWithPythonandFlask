@@ -1,3 +1,5 @@
+// Updated by crissycodi on June 12, 2025
+
 let RunSentimentAnalysis = ()=>{
     textToAnalyze = document.getElementById("textToAnalyze").value;
 
